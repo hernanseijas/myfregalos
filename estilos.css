@@ -1,0 +1,43 @@
+#cabecera {
+  font-family: "Sofia", sans-serif;
+  font-size: 25px;
+  text-shadow: 3px 3px 3px #ababab;
+  background-color:darkturquoise;
+  text-align: center;
+  margin-right:50px;
+  border-radius: 5px;
+}
+
+#cabecera li {
+  display: inline;
+  margin-right: 15px;
+  
+}
+#logo {
+  float:left;
+}
+#menu {
+  float:left;
+  font-family: "Sofia", sans-serif;
+  text-align: center;
+  
+}
+
+/* #hp  {
+float: right;    
+ margin: 0 0 0 15px;
+} */
+/* .output {
+ font: 1rem 'Fira Sans', sans-serif;
+}
+.nota {
+ /* font-style: italic; */
+ font-weight: bold;
+}
+.editorial {
+ background: rgb(255, 0, 0, .25);
+ padding: 20px;
+}
+.editorial:before {
+ content: 'Editor: ';
+} */
